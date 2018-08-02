@@ -10,6 +10,9 @@ namespace Treehouse.FitnessFrog
 	{
 		static void Main()
 		{
+			Console.Write("Enter the number of min you workedout: ");
+
+			string entry = Console.ReadLine();
 		}
 	}
 }
